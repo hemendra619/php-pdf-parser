@@ -328,6 +328,9 @@ class PdfFileReader {
     }
     return $line;
   }
+  function read_data_lines($stream){
+    
+  }
   
 }
 
